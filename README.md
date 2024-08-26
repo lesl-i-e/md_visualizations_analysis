@@ -1,4 +1,4 @@
-# Maji Ndogo Visualizations Analysis
+# Maji Ndogo Visualizations Analysis with Power BI
 
 ## Project Overview
 
